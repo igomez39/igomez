@@ -1,5 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
+bio: 
   matter.
 education:
   courses:
@@ -35,4 +35,4 @@ superuser: true
 title: Isabel Gomez
 ---
 
-I am an undergraduate student at Smith College studying Statistical and Data Sciences. I am currently exploring the data science world specifically the data visualization and data analysis realm. I decided to make this blog to document my growth in R, Python, Excel, Tableu and SQL.
+I am an undergraduate student at Smith College studying Statistical and Data Sciences. I am currently exploring the data science world specifically the data visualization and data analysis realm. I decided to make this blog to document my growth in R, Python, Excel, Tableau and SQL.
