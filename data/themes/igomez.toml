@@ -1,0 +1,26 @@
+# Theme metadata
+name = "igomez"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#AA767C"
+
+# Menu
+menu_primary = "#FAFAFF"
+menu_text = "#EC9F05"
+menu_text_active = "#118AB2"
+menu_title = "#8EA604"
+
+# Backgrounds
+background = "#FAFAFF"
+home_section_odd = "#FAFAFF"
+home_section_even = "#FAFAFF"
+
+dark_background = ""
+dark_home_section_odd = ""
+dark_home_section_even = ""
+
+link = "#AA767C"
+link_hover = "#118AB2"
