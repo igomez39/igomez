@@ -1,0 +1,21 @@
+---
+title: Datawrapper Rappers
+author: Isabel Gomez
+date: '2021-03-24'
+slug: datawrapper-rappers
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2021-03-24T05:54:40-04:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+draft: true 
+---
+
+Rankings-Female-Rappers![data-wrapper-viz](skoFZ-average-rankings-of-female-rappers.png)
