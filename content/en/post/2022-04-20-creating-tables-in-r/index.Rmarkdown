@@ -1,0 +1,23 @@
+---
+title: Creating Tables in R
+author: Isabel Gomez
+date: '2022-04-20'
+slug: creating-tables-in-r
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2022-04-20T22:53:54-04:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+draft: true 
+---
+
+This post will talk about how to create summary statistics tables in R. I will go through different R packages and functions that currently make creating a summary statistic table easy in R, especially ones where you do not have personally calculate the statistics. 
+
+I will also go into creating a summary statistics table from scratch. 

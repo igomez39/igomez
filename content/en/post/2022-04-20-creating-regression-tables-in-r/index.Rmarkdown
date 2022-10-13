@@ -1,0 +1,26 @@
+---
+title: creating regression tables in R
+author: Isabel Gomez
+date: '2022-04-20'
+slug: creating-regression-tables-in-r
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2022-04-20T22:56:34-04:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+draft: true 
+---
+This will go into the different packages that exist that makes regression tables very easy to format. 
+
+The regression models will include 
+- simple + multiple linear regression 
+- glm -- logistic regression, poissonn,
+- vglm 
+- coxph 
