@@ -15,6 +15,7 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+draft: true 
 ---
 
 This post will talk about how to create summary statistics tables in R. I will go through different R packages and functions that currently make creating a summary statistic table easy in R, especially ones where you do not have personally calculate the statistics. 
