@@ -21,7 +21,7 @@ role: Undergraduate Student
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#contact
+  link: mailto:igomez@smith.edu
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/gomezdata
